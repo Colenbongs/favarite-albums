@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/favarite-albums/static/css/main.4955a907.css",
+    "main.js": "/favarite-albums/static/js/main.d3238cdf.js",
+    "static/js/787.92645ec2.chunk.js": "/favarite-albums/static/js/787.92645ec2.chunk.js",
+    "index.html": "/favarite-albums/index.html",
+    "main.4955a907.css.map": "/favarite-albums/static/css/main.4955a907.css.map",
+    "main.d3238cdf.js.map": "/favarite-albums/static/js/main.d3238cdf.js.map",
+    "787.92645ec2.chunk.js.map": "/favarite-albums/static/js/787.92645ec2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4955a907.css",
+    "static/js/main.d3238cdf.js"
+  ]
+}
